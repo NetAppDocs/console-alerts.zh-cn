@@ -14,19 +14,19 @@ summary: 查看NetApp ONTAP环境中与容量、性能、可用​​性和安�
 
 
 [role="lead"]
-使用NetApp控制台查看NetApp本地ONTAP系统中的问题或潜在风险。您可以使用ONTAP系统管理器深入了解详细信息。
+使用NetApp Console查看NetApp本地ONTAP系统中的问题或潜在风险。您可以使用ONTAP系统管理器深入了解详细信息。
 
 
 
-== NetApp控制台
+== NetApp Console
 
-在NetApp控制台中查看ONTAP警报。
+在NetApp Console中查看ONTAP警报。
 
-NetApp控制台提供企业级跨本地和云环境的NetApp存储和数据服务的集中管理。需要控制台才能访问和使用NetApp数据服务。作为管理界面，它使您能够从一个界面管理许多存储资源。控制台管理员可以控制企业内所有系统的存储和服务的访问。
+NetApp Console提供企业级跨本地和云环境的NetApp存储和数据服务的集中管理。需要控制台才能访问和使用NetApp数据服务。作为管理界面，它使您能够从一个界面管理许多存储资源。控制台管理员可以控制企业内所有系统的存储和服务的访问。
 
-您不需要许可证或订阅即可开始使用NetApp控制台，并且只有当您需要在云中部署控制台代理以确保与存储系统或NetApp数据服务的连接时才需要付费。但是，一些可从控制台访问的NetApp数据服务是需要许可或基于订阅的。
+您不需要许可证或订阅即可开始使用NetApp Console，并且只有当您需要在云中部署控制台代理以确保与存储系统或NetApp数据服务的连接时才需要付费。但是，一些可从控制台访问的NetApp数据服务是需要许可或基于订阅的。
 
-详细了解 https://docs.netapp.com/us-en/bluexp-setup-admin/concept-overview.html["NetApp控制台"]。
+详细了解 https://docs.netapp.com/us-en/bluexp-setup-admin/concept-overview.html["NetApp Console"]。
 
 
 
@@ -39,7 +39,7 @@ NetApp控制台提供企业级跨本地和云环境的NetApp存储和数据服�
 
 
 
-TIP: NetApp控制台 UI 右上角的“通知”选项可监视NetApp控制台正在执行的操作的状态，以帮助您识别需要解决的问题。您可以将这些通知发送到您的电子邮箱。通知选项不包括来自ONTAP警报的警报。
+TIP: NetApp ConsoleUI 右上角的“通知”选项可监视NetApp Console正在执行的操作的状态，以帮助您识别需要解决的问题。您可以将这些通知发送到您的电子邮箱。通知选项不包括来自ONTAP警报的警报。
 
 
 
@@ -48,8 +48,8 @@ TIP: NetApp控制台 UI 右上角的“通知”选项可监视NetApp控制台�
 监控ONTAP警报具有以下好处：
 
 * 获取有关跨集群的ONTAP存储的警报。
-* 在用于其他服务的同一NetApp控制台 UI 中查看警报。
-* 深入了解ONTAP集群的警报 - 从NetApp控制台开始并在ONTAP系统管理器中查看详细信息。
+* 在用于其他服务的同一NetApp ConsoleUI 中查看警报。
+* 深入了解ONTAP集群的警报 - 从NetApp Console开始并在ONTAP系统管理器中查看详细信息。
 
 
 
@@ -66,13 +66,13 @@ TIP: NetApp控制台 UI 右上角的“通知”选项可监视NetApp控制台�
 
 您不需要试用许可证。
 
-ONTAP警报只能在NetApp控制台标准（公共）模式下查看。
+ONTAP警报只能在NetApp Console标准（公共）模式下查看。
 
 
 
 == ONTAP警报的工作原理
 
-ONTAP警报是NetApp控制台的核心组件。  ONTAP警报监控ONTAP集群并从ONTAP接收警报数据。
+ONTAP警报是NetApp Console的核心组件。  ONTAP警报监控ONTAP集群并从ONTAP接收警报数据。
 
 ONTAP警报仅在NetApp Console SaaS 环境中可用。它在本地控制台代理 UI 中不可用。
 

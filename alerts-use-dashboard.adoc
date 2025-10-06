@@ -30,7 +30,7 @@ EMS 严重性通过以下方式映射到ONTAP警报严重性：
 
 [cols="40,40"]
 |===
-| EMS 警报严重程度： | NetApp控制台警报严重性： 
+| EMS 警报严重程度： | NetApp Console警报严重性： 
 
 
 | 警报或紧急情况 | 严重 
@@ -146,7 +146,7 @@ EMS警报：
 == 查看ONTAP存储问题
 
 .步骤
-. link:alerts-start-login.html["登录NetApp控制台"] 。
+. link:alerts-start-login.html["登录NetApp Console"] 。
 . 从控制台左侧导航栏中，选择“*存储*”>“*警报*”。
 +
 发现后，“警报列表”页面将显示ONTAP系统中的警报列表。

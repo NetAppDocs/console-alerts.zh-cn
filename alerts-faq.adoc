@@ -18,25 +18,25 @@ summary: 如果您只是想快速找到问题的答案，那么此NetApp警报�
 
 == 访问NetApp警报
 
-* NetApp警报 URL 是什么？*对于 URL，在浏览器中输入： https://console.netapp.com/["https://console.netapp.com/"^]访问NetApp控制台。
+* NetApp警报 URL 是什么？*对于 URL，在浏览器中输入： https://console.netapp.com/["https://console.netapp.com/"^]访问NetApp Console。
 
 *您需要许可证才能使用NetApp警报吗？*
 
-使用NetApp警报需要NetApp ONTAP 9.10 或更高版本的许可证。许可证不需要输入到NetApp Console 数字钱包中。
+使用NetApp警报需要NetApp ONTAP 9.10 或更高版本的许可证。许可证不需要输入到NetApp Console数字钱包中。
 
 您不需要拥有NetApp警报的试用许可证。
 
-*如何启用NetApp警报？* NetApp警报不需要任何启用。警报选项会在NetApp控制台左侧导航中自动启用。
+*如何启用NetApp警报？* NetApp警报不需要任何启用。警报选项会在NetApp Console左侧导航中自动启用。
 
 首先，当您使用控制台代理时，它将包含适合NetApp警报的功能。
 
-** NetApp警报是否在标准、受限和私有模式下可用？**  NetApp警报只能部署在NetApp控制台标准（公共）中。
+** NetApp警报是否在标准、受限和私有模式下可用？**  NetApp警报只能部署在NetApp Console标准（公共）中。
 
-有关所有NetApp控制台服务中这些模式的说明，请参阅 https://docs.netapp.com/us-en/bluexp-setup-admin/concept-modes.html["NetApp控制台部署模式"^]。
+有关所有NetApp Console服务中这些模式的说明，请参阅 https://docs.netapp.com/us-en/bluexp-setup-admin/concept-modes.html["NetApp Console部署模式"^]。
 
-**如何处理访问权限？**只有NetApp控制台组织管理员才有能力启动NetApp警报并发现工作负载（因为这涉及承诺使用资源）。
+**如何处理访问权限？**只有NetApp Console组织管理员才有能力启动NetApp警报并发现工作负载（因为这涉及承诺使用资源）。
 
-根据登录用户对该NetApp控制台组织中集群资源的访问权限，向他们显示警报。
+根据登录用户对该NetApp Console组织中集群资源的访问权限，向他们显示警报。
 
 
 

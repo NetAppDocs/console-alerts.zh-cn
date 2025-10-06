@@ -18,7 +18,7 @@ summary: 通过NetApp警报，您可以查看与ONTAP存储系统相关的警报
 
 == 查看警报详细信息
 
-. link:alerts-start-login.html["登录NetApp控制台"] 。
+. link:alerts-start-login.html["登录NetApp Console"] 。
 . 从控制台左侧导航栏中，选择“*存储*”>“*警报*”。
 . 从警报列表页面中选择一个警报。
 +

@@ -2,7 +2,7 @@
 sidebar: sidebar 
 permalink: alerts-start-login.html 
 keywords: NetApp Console login, log in, ontap, netapp 
-summary: 通过访问NetApp控制台中的ONTAP警报开始使用ONTAP警报。 
+summary: 通过访问NetApp Console中的ONTAP警报开始使用ONTAP警报。 
 ---
 = 访问ONTAP警报
 :hardbreaks:
@@ -12,12 +12,12 @@ summary: 通过访问NetApp控制台中的ONTAP警报开始使用ONTAP警报。
 
 
 [role="lead"]
-您可以使用NetApp控制台查看ONTAP警报。
+您可以使用NetApp Console查看ONTAP警报。
 
-要登录NetApp控制台，您可以使用您的NetApp支持站点凭据，也可以使用您的电子邮件和密码注册NetApp云登录。 https://docs.netapp.com/us-en/cloud-manager-setup-admin/task-logging-in.html["了解有关登录的更多信息"^] 。
+要登录NetApp Console，您可以使用您的NetApp支持站点凭据，也可以使用您的电子邮件和密码注册NetApp云登录。 https://docs.netapp.com/us-en/cloud-manager-setup-admin/task-logging-in.html["了解有关登录的更多信息"^] 。
 
 .步骤
-. 打开 Web 浏览器并转到 https://console.netapp.com/["NetApp控制台"^]。
+. 打开 Web 浏览器并转到 https://console.netapp.com/["NetApp Console"^]。
 +
 出现控制台登录页面。
 

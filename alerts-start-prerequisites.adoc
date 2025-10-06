@@ -16,24 +16,24 @@ summary: 通过验证对您的环境、网络访问、登录和 Web 浏览器的
 
 要查看ONTAP警报，您需要满足以下先决条件：
 
-* ONTAP 9.10 及更高版本。必须在NetApp控制台系统页面中发现内部部署系统。
+* ONTAP 9.10 及更高版本。必须在NetApp Console系统页面中发现内部部署系统。
 +
 ** 集群管理员ONTAP权限
 +
-许可证不需要输入到NetApp Console 数字钱包中。
+许可证不需要输入到NetApp Console数字钱包中。
 
 
 
-* 在NetApp控制台中：
+* 在NetApp Console中：
 +
-** 带有NetApp本地 NAS 或 SAN 存储的NetApp控制台系统
-** 必须在NetApp控制台中设置本地区域的控制台代理。参考 https://docs.netapp.com/us-en/cloud-manager-setup-admin/concept-connectors.html["NetApp Console 文档用于配置控制台代理"^]。
+** 带有NetApp本地 NAS 或 SAN 存储的NetApp Console系统
+** 必须在NetApp Console中设置本地区域的控制台代理。参考 https://docs.netapp.com/us-en/cloud-manager-setup-admin/concept-connectors.html["NetApp Console文档用于配置控制台代理"^]。
 +
-如果从控制台代理中删除集群，则与该集群相关的警报将保留 90 天。此外，如果您更改控制台代理，警报将与原始集群和代理保持关联 90 天。如果您返回原始代理，您将再次看到这些警报。
+如果从控制台代理中删除集群，则与该集群相关的警报将保留 90 天。此外，如果您更改控制台代理，警报仍会与原始集群和代理保持关联 90 天。如果您返回原始代理，您将再次看到这些警报。
 
-** 一个NetApp控制台组织，其中至少有一个活动控制台代理连接到本地ONTAP集群。所有源和系统必须位于同一个NetApp控制台组织中。
-** 该组织中具有组织管理员权限的NetApp控制台用户，可以发现资源
-** https://docs.netapp.com/us-en/cloud-manager-setup-admin/reference-checklist-cm.html["标准NetApp控制台要求"^]
+** 一个NetApp Console组织，其中至少有一个活动控制台代理连接到本地ONTAP集群。所有源和系统必须位于同一个NetApp Console组织中。
+** 该组织中具有组织管理员权限的NetApp Console用户，可以发现资源
+** https://docs.netapp.com/us-en/cloud-manager-setup-admin/reference-checklist-cm.html["标准NetApp Console要求"^]
 
 
 
