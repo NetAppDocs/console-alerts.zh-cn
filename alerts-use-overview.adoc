@@ -1,0 +1,19 @@
+---
+sidebar: sidebar 
+permalink: alerts-use-overview.html 
+keywords: alerts, alerts, ontap, netapp 
+summary: 使用NetApp警报，您可以查看工作负载健康状况并保护工作负载。 
+---
+= 查看ONTAP警报概述
+:hardbreaks:
+:allow-uri-read: 
+:icons: font
+:imagesdir: ./media/
+
+
+[role="lead"]
+查看存储问题并通过直接指向ONTAP系统管理器的链接查看详细信息。
+
+* link:alerts-use-dashboard.html["从警报列表页面查看存储问题或潜在风险"] 。
+* link:alerts-use-alerts.html["查看ONTAP系统管理器中链接的警报详细信息"] 。
+

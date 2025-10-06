@@ -1,0 +1,40 @@
+---
+sidebar: sidebar 
+permalink: alerts-use-alerts.html 
+keywords: alerts, ontap, netapp, system manager, bluexp 
+summary: 通过NetApp警报，您可以查看与ONTAP存储系统相关的警报并深入了解与ONTAP系统管理器相关的详细信息。 
+---
+= 查看ONTAP存储系统中的警报详细信息
+:hardbreaks:
+:allow-uri-read: 
+:icons: font
+:imagesdir: ./media/
+
+
+[role="lead"]
+查看与您的ONTAP存储系统相关的警报并深入了解详细信息。
+
+
+
+== 查看警报详细信息
+
+. link:alerts-start-login.html["登录NetApp控制台"] 。
+. 从控制台左侧导航栏中，选择“*存储*”>“*警报*”。
+. 从警报列表页面中选择一个警报。
++
+image:alerts-detail.png["警报详细信息"]
+
+. 向下滚动以查找建议的纠正措施。
+. 向下滚动以查找与发出警报的对象相关的其他警报。
+
+
+
+
+== 在ONTAP System Manager 中查看有关集群的详细信息
+
+. 从警报列表页面中选择一个警报。
+. 从警报中，选择页面顶部的集群名称。
++
+ONTAP系统管理器现在会显示有关集群的信息。
+
+

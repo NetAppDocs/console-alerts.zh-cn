@@ -1,0 +1,35 @@
+---
+sidebar: sidebar 
+permalink: alerts-start-setup.html 
+keywords: bluexp, alerts, ontap, netapp 
+summary: 要查看ONTAP警报，请执行几个步骤进行设置。 
+---
+= 设置ONTAP警报
+:hardbreaks:
+:allow-uri-read: 
+:icons: font
+:imagesdir: ./media/
+
+
+[role="lead"]
+要使用ONTAP警报，请执行几个步骤进行设置。
+
+在开始之前，请查看link:alerts-start-prerequisites.html["前提条件"]以确保您的环境已准备就绪。
+
+审查 https://docs.netapp.com/us-en/cloud-manager-setup-admin/reference-checklist-cm.html["标准NetApp控制台要求"^]。
+
+
+
+== 访问集群资源
+
+要查看警报，登录的用户必须是NetApp控制台组织的一部分，并且应该具有对集群资源所需的访问权限。
+
+
+
+== 创建控制台代理
+
+您应该联系您的NetApp销售代表来尝试或使用ONTAP警报。然后，当您使用控制台代理时，它将包含适合ONTAP警报的功能。
+
+要在NetApp控制台中创建控制台代理，请参阅BlueXP文档，其中描述了 https://docs.netapp.com/us-en/cloud-manager-setup-admin/concept-connectors.html["如何创建控制台代理"^]。
+
+设置控制台代理并添加系统后，等待大约 15 分钟进行初始发现。

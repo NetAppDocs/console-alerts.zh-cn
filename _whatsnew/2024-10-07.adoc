@@ -1,0 +1,23 @@
+= BlueXP alerts列表页面
+:allow-uri-read: 
+
+
+
+
+=== BlueXP alerts列表页面
+
+您可以快速识别容量低或性能低的ONTAP集群、评估可用性程度并识别安全风险。您可以查看与容量、性能、保护、可用性、安全性和配置相关的警报。
+
+
+
+=== 警报详情
+
+您可以深入了解警报详细信息并找到建议。
+
+
+
+=== 查看链接到ONTAP System Manager 的集群详细信息
+
+通过BlueXP alerts，您可以查看与ONTAP存储环境相关的警报并深入了解与ONTAP系统管理器相关的详细信息。
+
+https://docs.netapp.com/us-en/bluexp-alerts/concept-alerts.html["了解BlueXP alerts"] 。
