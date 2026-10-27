@@ -4,7 +4,7 @@ permalink: alerts-start-prerequisites.html
 keywords: what are bluexp alerts requirements, bluexp alerts, alerts prerequisites, ontap alerts 
 summary: 通过验证对您的环境、网络访问、登录和 Web 浏览器的支持来开始使用ONTAP警报。 
 ---
-= ONTAP警报前提条件
+= 在 NetApp Console 中查看 ONTAP 警报的先决条件
 :hardbreaks:
 :allow-uri-read: 
 :icons: font

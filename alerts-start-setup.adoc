@@ -4,7 +4,7 @@ permalink: alerts-start-setup.html
 keywords: bluexp, alerts, ontap, netapp 
 summary: 要查看ONTAP警报，请执行几个步骤进行设置。 
 ---
-= 设置ONTAP警报
+= 在 NetApp Console 中设置 ONTAP 警报
 :hardbreaks:
 :allow-uri-read: 
 :icons: font
@@ -20,12 +20,14 @@ summary: 要查看ONTAP警报，请执行几个步骤进行设置。
 
 
 
+[[access-to-cluster-resources]]
 == 访问集群资源
 
 要查看警报，登录的用户必须是NetApp Console组织的一部分，并且应该具有对集群资源所需的访问权限。
 
 
 
+[[create-the-console-agent]]
 == 创建控制台代理
 
 您应该联系您的NetApp销售代表来尝试或使用ONTAP警报。然后，当您使用控制台代理时，它将包含适合ONTAP警报的功能。

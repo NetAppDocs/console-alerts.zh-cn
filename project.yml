@@ -34,8 +34,6 @@ sidebar:
       url: "/alerts-start-login.html"
   - title: 使用ONTAP警报
     entries:
-    - title: 查看ONTAP警报概述
-      url: "/alerts-use-overview.html"
     - title: 查看ONTAP存储中的潜在风险
       url: "/alerts-use-dashboard.html"
     - title: 查看存储系统中的警报

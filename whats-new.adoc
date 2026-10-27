@@ -4,7 +4,7 @@ permalink: whats-new.html
 keywords: 'what"s new, features, new, release notes, bugs, limitations, known issues, enhancements, fixes, ontap, bluexp, system manager' 
 summary: 了解ONTAP警报中的新功能。 
 ---
-= ONTAP警报的新增功能
+= NetApp Console 中 ONTAP 警报的新增功能
 :hardbreaks:
 :allow-uri-read: 
 :nofooter: 
@@ -18,10 +18,12 @@ summary: 了解ONTAP警报中的新功能。
 
 
 
+[[06-october-2025]]
 == 2025年10月6日
 
 
 
+[[bluexp-alerts-is-now-ontap-alerts]]
 === BlueXP alerts现已升级ONTAP警报
 
 BlueXP alerts已重命名为ONTAP警报。
@@ -30,30 +32,35 @@ BlueXP alerts已重命名为ONTAP警报。
 
 
 
+[[bluexp-is-now-netapp-console]]
 === BlueXP现在是NetApp Console
 
 NetApp Console建立在增强和重组的BlueXP基础之上，可在企业级内部和云环境中集中管理NetApp存储和NetApp Data Services，提供实时洞察、更快的工作流程和简化的管理，并且高度安全且合规。
 
-有关更改的详细信息，请参阅link:https://docs.netapp.com/us-en/bluexp-relnotes/index.html["NetApp Console发行说明"]。
+有关更改的详细信息，请参见 link:https://docs.netapp.com/us-en/bluexp-relnotes/index.html["NetApp Console发行说明"]。
 
 
 
+[[07-october-2024]]
 == 2024年10月7日
 
 
 
+[[bluexp-alerts-list-page]]
 === BlueXP alerts列表页面
 
 您可以快速识别容量低或性能低的ONTAP集群、评估可用性程度并识别安全风险。您可以查看与容量、性能、保护、可用性、安全性和配置相关的警报。
 
 
 
+[[alerts-details]]
 === 警报详情
 
 您可以深入了解警报详细信息并找到建议。
 
 
 
+[[view-cluster-details-linked-to-ontap-system-manager]]
 === 查看链接到ONTAP System Manager 的集群详细信息
 
 通过BlueXP alerts，您可以查看与ONTAP存储环境相关的警报并深入了解与ONTAP系统管理器相关的详细信息。

@@ -4,7 +4,7 @@ permalink: alerts-start-quick-start.html
 keywords: how to get started with bluexp alerts, alerts quick start, netapp, ontap, alert, capacity, performance, availability, security, protection, bluexp, bluexp alerts 
 summary: 只需几个步骤即可开始使用ONTAP警报。 
 ---
-= ONTAP警报快速启动
+= NetApp Console 中的 ONTAP 警报快速入门
 :hardbreaks:
 :allow-uri-read: 
 :icons: font

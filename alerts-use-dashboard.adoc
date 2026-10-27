@@ -4,7 +4,7 @@ permalink: alerts-use-dashboard.html
 keywords: alerts, alerts dashboard, ontap, netapp, bluexp, cluster,capacity, protection, security 
 summary: 一目了然地了解您的ONTAP环境的健康状况。您可以快速识别容量低或性能低的ONTAP集群、衡量可用性程度、确定可用性并识别安全风险。 
 ---
-= 使用警报列表页面查看ONTAP存储中的潜在风险
+= 使用 NetApp Console 中的警报列表页面查看 ONTAP 存储中的潜在风险
 :hardbreaks:
 :allow-uri-read: 
 :icons: font
@@ -22,6 +22,7 @@ summary: 一目了然地了解您的ONTAP环境的健康状况。您可以快速
 
 
 
+[[alerts-you-might-see]]
 == 您可能会看到的警报
 
 以下是显示的一些警报。
@@ -143,6 +144,7 @@ EMS警报：
 
 
 
+[[view-ontap-storage-issues]]
 == 查看ONTAP存储问题
 
 .步骤

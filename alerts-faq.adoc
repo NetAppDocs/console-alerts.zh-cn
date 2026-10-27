@@ -16,6 +16,7 @@ summary: 如果您只是想快速找到问题的答案，那么此NetApp警报�
 
 
 
+[[access-to-netapp-alerts]]
 == 访问NetApp警报
 
 * NetApp警报 URL 是什么？*对于 URL，在浏览器中输入： https://console.netapp.com/["https://console.netapp.com/"^]访问NetApp Console。
@@ -40,6 +41,7 @@ summary: 如果您只是想快速找到问题的答案，那么此NetApp警报�
 
 
 
+[[view-alerts]]
 == 查看警报
 
 **我需要等待多长时间才能开始收到警报？**
@@ -58,6 +60,7 @@ NetApp警报仅可使用内部标准控制台代理获得。使用直接模式�
 
 
 
+[[display-of-information]]
 == 信息显示
 
 **什么设备分辨率最好？**  NetApp警报的建议设备分辨率为 1920x1080 或更高。
